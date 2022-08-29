@@ -8,7 +8,7 @@
 </head>
 <body>
     
-<h2>SAVE LOCATION</h2>
+<h2>SAVE LOCATION And Data is Saved</h2>
     
 <a href="listall">All Locations</a>
 <form action="saveLocation">
