@@ -29,6 +29,6 @@ public class LocationRestController {
 	
 	@GetMapping("/show1")
 	public String showLocationPage() {
-		return "create_Location";
+		return "Thanks Mam and Team";
 	}
 }
