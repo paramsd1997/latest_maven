@@ -17,7 +17,7 @@ Code<input type="text" name="code"/>
 type:
 urban<input type="radio" name="type" value="Urban"/>
 rural<input type="radio" name="type" value="Rural"/>
-<input type="submit" value="save"/>
+<input type="submit" value="Save"/>
 </pre>
 </form>
 ${msg}
