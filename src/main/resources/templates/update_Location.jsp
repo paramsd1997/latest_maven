@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>update</title>
+<title>Update</title>
 </head>
 <body>
-<h2>update Location</h2>
+<h2>Update Location</h2>
 <a href="listall">All Locations</a>
 <a href="show">Add Location</a>
 <form action="updateData">
