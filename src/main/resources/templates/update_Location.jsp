@@ -16,8 +16,8 @@ Id<input type="text" name="id" value="${location.id}"/>
 Name<input type="text" name="name" value="${location.name}"/>
 Code<input type="text" name="code" value="${location.code}"/>
 type:
-urban<input type="radio" name="type" value="urban"/>
-rural<input type="radio" name="type" value="rural"/>
+urban<input type="radio" name="type" value="Urban"/>
+rural<input type="radio" name="type" value="Rural"/>
 <input type="submit" value="update"/>
 </pre>
 </form>
